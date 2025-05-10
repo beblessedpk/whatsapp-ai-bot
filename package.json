@@ -1,0 +1,14 @@
+{
+  "name": "whatsapp-ai-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "google-spreadsheet": "^3.3.0",
+    "googleapis": "^148.0.0",
+    "openai": "^4.97.0",
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.27.0"
+  }
+}

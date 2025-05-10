@@ -1,0 +1,11 @@
+{
+  "product detail": {
+    "reply": "Our complete product list is available in the menu. Please type 'menu' to view."
+  },
+  "price": {
+    "reply": "Prices vary by product. Please mention the product name (like hoodie, jacket, etc.)."
+  },
+  "hoodie": {
+    "reply": "Our hoodie is priced at Rs. 1499. All sizes are available!"
+  }
+}
